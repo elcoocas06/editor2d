@@ -1,3 +1,3 @@
-/mnt/c/Users/Jordi/editor2d/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Jordi/editor2d/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/Jordi/editor2d/build/CMakeFiles/editor2d.dir
+C:/Users/Jordi/editor2d/build/CMakeFiles/editor2d.dir
+C:/Users/Jordi/editor2d/build/CMakeFiles/edit_cache.dir
+C:/Users/Jordi/editor2d/build/CMakeFiles/rebuild_cache.dir
