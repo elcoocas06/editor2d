@@ -1,6 +1,17 @@
 # Build directories
 build/
+cmake-build-*/
 
-# Temporary files
-*.save
-*.save.*
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# OS-specific
+.DS_Store
